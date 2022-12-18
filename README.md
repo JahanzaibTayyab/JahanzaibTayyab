@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web 3.0
 - 📫 How to reach me: Email: jtayyab204@gmail.com 
 - 📫 Linkedin: https://www.linkedin.com/in/jahanzaib-tayyab-0b752913a/
+- 📞 +92303 0965057
 
 <!---
 JahanzaibTayyab/JahanzaibTayyab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
