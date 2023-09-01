@@ -67,13 +67,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/jahanzaibtayyab/jahanzaibtayyab/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<!---
-JahanzaibTayyab/JahanzaibTayyab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
