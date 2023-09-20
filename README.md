@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi, I’m Jahanzaib Tayyab Hello! I am a Software Engineer</h2>
+<h2 align="left">Hi, I’m Jahanzaib Tayyab , I am a Software Engineer</h2>
 
 ###
 
