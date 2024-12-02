@@ -1,10 +1,28 @@
 <br clear="both">
 
-<h2 align="left">Hi, I'm Jahanzaib Tayyab 👋</h2>
+<h2 align="left">👋 Hi there, I'm Jahanzaib Tayyab!</h2>
 
 ###
 
-<p align="left">Hello! I am a Software Engineer with a passion for developing innovative and user-friendly web applications. With 4+ years of experience in the industry, I have honed my skills in JavaScript, node.js, React and Next.js.<br><br>I have a strong understanding of the software development life cycle and have worked on projects ranging from simple websites to complex web applications. I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.<br><br>Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jahanzaibtayyab&label=Profile%20views&color=0e75b6&style=flat" alt="jahanzaibtayyab" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" />
+</p>
+
+###
+
+###
+
+<p align="left">A trailblazing Full-Stack Engineer with over four years of experience, I specialize in the MERN stack and Next.js, seamlessly blending web development with artificial intelligence. My unique expertise lies in integrating GPT models and crafting AI agents using frameworks like LangChain and Crew.ai, pushing the boundaries of what's possible in the digital realm.<br><br> What Sets Me Apart:
+
+🚀 AI Integration Pioneer: Transforming conventional applications into intelligent systems by embedding GPT models and developing AI agents that enhance user interaction and experience.
+
+💡 Full-Stack Mastery: Proficient in JavaScript, TypeScript, React, Next.js, Node.js, Python and NestJS, I build scalable and efficient web applications tailored to meet dynamic user needs.
+
+🎯 Passionate Innovator: Driven by a relentless curiosity and a passion for continuous learning, I stay at the forefront of emerging technologies to deliver cutting-edge solutions.
+
+💡 Collaborative Team Player: Experienced in working with cross-functional teams to deliver high-quality software solutions on time.
+<br><br>Aside from my technical skills, I am a team player who values communication and collaboration. I believe that working together with my clients and colleagues leads to the best results and I am always open to feedback and suggestions.<br><br>In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.</p>
 
 ###
 
@@ -55,24 +73,16 @@
 
 ###
 
-<div align="left">
-  <a href="jtayyab204@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <a href="https://wa.me/+923030965057" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jahanzaibtayyab/jahanzaibtayyab/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jahanzaibtayyab/count.svg?"  />
+   <a href="jtayyab204@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+      </a>
+   <a href="https://www.linkedin.com/in/jahanzaib-tayyab/" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+     </a>
+    <a href="https://wa.me/+923030965057" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+       </a>
 </div>
 
 ###
