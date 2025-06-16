@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">A trailblazing Full-Stack Engineer with over four years of experience, I specialize in the MERN stack and Next.js, seamlessly blending web development with artificial intelligence. My unique expertise lies in integrating GPT models and crafting AI agents using frameworks like LangChain and Crew.ai, pushing the boundaries of what's possible in the digital realm.<br><br> What Sets Me Apart:
+<p align="left">A trailblazing Full-Stack Engineer with over four years of experience, I specialize in the MERN stack and Next.js, seamlessly blending web development with artificial intelligence. My unique expertise lies in integrating GPT models and crafting AI agents using frameworks like LangChain , Crew.ai and OpenAI Agent SDK, pushing the boundaries of what's possible in the digital realm.<br><br> What Sets Me Apart:
 
 🚀 AI Integration Pioneer: Transforming conventional applications into intelligent systems by embedding GPT models and developing AI agents that enhance user interaction and experience.
 
