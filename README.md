@@ -69,6 +69,18 @@
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cursor" height="30" alt="cursor logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="30" alt="claude / claude code logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=openai" height="30" alt="openai logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/crewai" height="30" alt="crewai logo"  />
 </div>
 
 ###
